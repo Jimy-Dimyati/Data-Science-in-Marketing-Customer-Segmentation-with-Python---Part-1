@@ -6,3 +6,13 @@ c.49 baris dan 6 kolom
 d.50 baris dan 7 kolom
 Jawaban (d)
 
+Quiz
+Pada dataset yang kamu gunakan, mana yang memiliki tipe data kategorikal?
+Pilih 3 jawaban benar dari pilihan data yang tersedia untuk bisa melanjutkan ke materi selanjutnya. 
+a.Nilai Belanja Setahun
+b.Profesi
+c.Jenis Kelamin
+d.Tipe Residen
+e.Umur
+Jawaban (b, c, d)
+
