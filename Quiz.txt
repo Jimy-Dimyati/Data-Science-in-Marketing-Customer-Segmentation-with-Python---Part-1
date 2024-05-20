@@ -16,3 +16,11 @@ d.Tipe Residen
 e.Umur
 Jawaban (b, c, d)
 
+Quiz
+Berikut adalah tahapan yang harus dilakukan pada pemrosesan data di analisis kali ini, kecuali:
+a.Merubah Kolom kategorikal ke kolom numerik
+b.Menggabungkan data frame hasil pemrosesan dan menyimpannya dalam df_model
+c.Melakukan data split untuk train dan test
+d.Standardisasi Kolom Numerik
+Jawaban (c)
+
