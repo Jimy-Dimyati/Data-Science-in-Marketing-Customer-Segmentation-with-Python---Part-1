@@ -1,0 +1,8 @@
+Quiz
+Berapa jumlah baris dan kolom dari dataset yang akan kita gunakan?
+a.50 baris dan 6 kolom
+b.49 baris dan 7 kolom
+c.49 baris dan 6 kolom
+d.50 baris dan 7 kolom
+Jawaban (d)
+
